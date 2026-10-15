@@ -1,0 +1,10 @@
+framework module zy_multicompany_lib_ui_ios {
+  umbrella header "zy_multicompany_lib_ui_ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module zy_multicompany_lib_ui_ios.Swift {
+  header "zy_multicompany_lib_ui_ios-Swift.h"
+}
